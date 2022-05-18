@@ -1,0 +1,28 @@
+{
+  "Categories": [
+    {
+      "name": "Electronics",
+      "url": "https://bit.ly/3FMzAvl"
+    },
+    {
+      "name": "Fashion",
+      "url": "https://bit.ly/3yx78fg"
+    },
+    {
+      "name": "Clothing",
+      "url": "https://bit.ly/3N0geVQ"
+    },
+    {
+      "name": "Footwear",
+      "url": "https://bit.ly/38eAEf7"
+    },
+    {
+      "name": "Accessories",
+      "url": "https://bit.ly/3yDo7N5"
+    },
+    {
+      "name": "Kitchen",
+      "url": "https://bit.ly/3FNTDcs"
+    }
+  ]
+}

@@ -1,9 +1,11 @@
 import express from "express";
-import { createUser, createSession } from "../../../controllers/api/v1/User.js";
-
+import User from "./User.js";
+import Products from "./Products.js";
+import Categories from "./Categories.js";
 const router = express.Router();
 
-router.post("/createUser", createUser);
-router.post("/createSession", createSession);
+router.use("/user", User);
+router.use("/products", Products);
+router.use("/categories", Categories);
 
 export default router;

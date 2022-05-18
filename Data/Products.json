@@ -1,0 +1,166 @@
+{
+    "Products": [
+        {
+            "_id": "a1",
+            "productName": "MacBook Pro",
+            "price": 120000,
+            "category": "Electronics",
+            "url": "https://bit.ly/39pBCW5",
+            "dateAdded": "2018-01-01",
+            "rating": 5
+        },
+        {
+            "_id": "a2",
+            "productName": "Iphone 13",
+            "price": 70000,
+            "category": "Electronics",
+            "url": "https://bit.ly/37JIYTG",
+            "dateAdded": "2018-01-01",
+            "rating": 4
+        },
+        {
+            "_id": "a3",
+            "productName": "Green Refrigerator",
+            "price": 45000,
+            "category": "Electronics",
+            "url": "https://bit.ly/3PlT3qY",
+            "dateAdded": "2018-01-01",
+            "rating": 3
+        },
+        {
+            "_id": "a4",
+            "productName": "Rectangular Leaning Mirror",
+            "price": 3200,
+            "category": "Fashion",
+            "url": "https://bit.ly/3PjdRiT",
+            "dateAdded": "2019-09-24",
+            "rating": 4
+        },
+        {
+            "_id": "a5",
+            "productName": "Red Lipstick",
+            "price": 700,
+            "category": "Fashion",
+            "url": "https://bit.ly/3wcRYtP",
+            "dateAdded": "2019-09-24",
+            "rating": 3
+        },
+        {
+            "_id": "a6",
+            "productName": "Silver Necklace",
+            "price": 48000,
+            "category": "Fashion",
+            "url": "https://bit.ly/39lWkG4",
+            "dateAdded": "2019-09-24",
+            "rating": 3
+        },
+        {
+            "_id": "a7",
+            "productName": "Red Floral Dress",
+            "price": 3000,
+            "category": "Clothing",
+            "url": "https://bit.ly/3l93ZKL",
+            "dateAdded": "2018-01-01",
+            "rating": 8
+        },
+        {
+            "_id": "a8",
+            "productName": "White Crew Neck T-Shirt",
+            "price": 1200,
+            "category": "Clothing",
+            "url": "https://bit.ly/39rIi68",
+            "dateAdded": "2018-01-01",
+            "rating": 4
+        },
+        {
+            "_id": "a9",
+            "productName": "Blue Denim Jeans",
+            "price": 3500,
+            "category": "Clothing",
+            "url": "https://bit.ly/3PjB04B",
+            "dateAdded": "2018-01-01",
+            "rating": 24
+        },
+        {
+            "_id": "a10",
+            "productName": "Brown Nike Sneakers",
+            "price": 5000,
+            "category": "Footwear",
+            "url": "https://bit.ly/3wpZnoJ",
+            "dateAdded": "2018-01-01",
+            "rating": 3
+        },
+        {
+            "_id": "a11",
+            "productName": "White Peep Toe Heel Sandals",
+            "price": 2200,
+            "category": "Footwear",
+            "url": "https://bit.ly/37JJLUG",
+            "dateAdded": "2018-01-01",
+            "rating": 39
+        },
+        {
+            "_id": "a12",
+            "productName": "Blue And White Sneakers",
+            "price": 13000,
+            "category": "Footwear",
+            "url": "https://bit.ly/3wvtFqb",
+            "dateAdded": "2018-01-01",
+            "rating": 3
+        },
+        {
+            "_id": "a13",
+            "productName": "Grey Leather Cross Body Bag",
+            "price": 900,
+            "category": "Accessories",
+            "url": "https://bit.ly/3a1emxT",
+            "dateAdded": "2018-01-01",
+            "rating": 3
+        },
+        {
+            "_id": "a14",
+            "productName": "Round Chronograph Watch",
+            "price": 80000,
+            "category": "Accessories",
+            "url": "https://bit.ly/3PpA3aX",
+            "dateAdded": "2018-01-01",
+            "rating": 3
+        },
+        {
+            "_id": "a15",
+            "productName": "Seiko Round Analog Watch",
+            "price": 53000,
+            "category": "Accessories",
+            "url": "https://bit.ly/3Lmpqmk",
+            "dateAdded": "2018-01-01",
+            "rating": 3
+        },
+        {
+            "_id": "a16",
+            "productName": "Two Brown Wooden Stoolbars",
+            "price": 2200,
+            "category": "Kitchen",
+            "url": "https://bit.ly/3wdrsR4",
+            "dateAdded": "2018-01-01",
+            "rating": 3
+        },
+        {
+            "_id": "a17",
+            "productName": "Two Clear Glass Jars",
+            "price": 1300,
+            "category": "Kitchen",
+            "url": "https://bit.ly/3MiFRB9",
+            "dateAdded": "2018-01-01",
+            "rating": 3
+        },
+        {
+            "_id": "a18",
+            "productName": "Five Gray Spoons",
+            "price": 900,
+            "category": "Kitchen",
+            "url": "https://bit.ly/3lgwk1u",
+            "dateAdded": "2018-01-01",
+            "rating": 3
+        }
+    ]
+}

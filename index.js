@@ -9,6 +9,7 @@ dotenv.config();
 const app = express();
 const port = 8000;
 
+app.use(express.static("./"));
 app.use(cors());
 app.use(express.json({ limit: "50MB" }));
 app.use(express.urlencoded({ extended: true }));
